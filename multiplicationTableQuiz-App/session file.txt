@@ -1,0 +1,18 @@
+
+Session summary of środa 6 grudnia 2017 12:11:09
+----------------------------------
+
+Summary time of answers:  0 min 55 s
+Sum of correct answers: >> 3 <<
+Sum of no valid answers: >> 2 <<
+Sum of answers: >> 5 <<
+Ok, end of questions, cu next time.
+
+Session summary of środa 6 grudnia 2017 16:45:28
+----------------------------------
+
+Summary time of answers:  0 min 2 s
+Sum of correct answers: >> 0 <<
+Sum of no valid answers: >> 0 <<
+Sum of answers: >> 0 <<
+Ok, end of questions, cu next time.
